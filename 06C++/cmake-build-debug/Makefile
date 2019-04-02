@@ -123,6 +123,33 @@ depend:
 	$(MAKE) -f CMakeFiles/06C__.dir/build.make CMakeFiles/06C__.dir/build
 .PHONY : 06C__/fast
 
+Handle.o: Handle.cpp.o
+
+.PHONY : Handle.o
+
+# target to build an object file
+Handle.cpp.o:
+	$(MAKE) -f CMakeFiles/06C__.dir/build.make CMakeFiles/06C__.dir/Handle.cpp.o
+.PHONY : Handle.cpp.o
+
+Handle.i: Handle.cpp.i
+
+.PHONY : Handle.i
+
+# target to preprocess a source file
+Handle.cpp.i:
+	$(MAKE) -f CMakeFiles/06C__.dir/build.make CMakeFiles/06C__.dir/Handle.cpp.i
+.PHONY : Handle.cpp.i
+
+Handle.s: Handle.cpp.s
+
+.PHONY : Handle.s
+
+# target to generate assembly for a file
+Handle.cpp.s:
+	$(MAKE) -f CMakeFiles/06C__.dir/build.make CMakeFiles/06C__.dir/Handle.cpp.s
+.PHONY : Handle.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 06C__"
+	@echo "... Handle.o"
+	@echo "... Handle.i"
+	@echo "... Handle.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/bigfish/mine/C_Practice/06C++/Handle.cpp" "/Users/bigfish/mine/C_Practice/06C++/cmake-build-debug/CMakeFiles/06C__.dir/Handle.cpp.o"
   "/Users/bigfish/mine/C_Practice/06C++/main.cpp" "/Users/bigfish/mine/C_Practice/06C++/cmake-build-debug/CMakeFiles/06C__.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

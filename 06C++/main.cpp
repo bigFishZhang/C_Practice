@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "Handle.h"
 using  namespace std;
 
 struct Teacher
@@ -59,6 +59,11 @@ void printTeacher(const Teacher &myt)
 }
 
 int main() {
+    Handle handle;
+
+    handle.test();
+
+
     std::cout << "Hello, World!" << std::endl;
     Teacher *pT1 = NULL;
 

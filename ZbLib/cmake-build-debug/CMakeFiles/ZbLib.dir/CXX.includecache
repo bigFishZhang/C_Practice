@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bigfish/mine/C_Practice/ZbLib/Test.cpp
+Test.h
+/Users/bigfish/mine/C_Practice/ZbLib/Test.h
+stdio.h
+-
+unistd.h
+-
+
+/Users/bigfish/mine/C_Practice/ZbLib/Test.h
+ZBHeader.h
+/Users/bigfish/mine/C_Practice/ZbLib/ZBHeader.h
+
+/Users/bigfish/mine/C_Practice/ZbLib/ZBHeader.h
+
+/Users/bigfish/mine/C_Practice/ZbLib/main.cpp
+iostream
+-
+Test.h
+/Users/bigfish/mine/C_Practice/ZbLib/Test.h
+

@@ -3,4 +3,4 @@ project(06C__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(06C__ main.cpp)
+add_executable(06C__ main.cpp Handle.cpp Handle.h)
