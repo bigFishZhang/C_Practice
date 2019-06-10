@@ -7,7 +7,7 @@
     "name": "debug",
     "type": "cppdbg",
     "request": "launch",
-    "program": "${workspaceFolder}/Practice/605", //要执行的文件
+    "program": "${workspaceFolder}/Practice/606", //要执行的文件
     // "args": ["hello123.aac"], //输入参数
     "stopAtEntry": false,
     "cwd": "${workspaceFolder}",

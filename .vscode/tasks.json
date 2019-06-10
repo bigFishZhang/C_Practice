@@ -7,10 +7,10 @@
     "args": [
       "-g",
       "-o",
-      "./Practice/605", //输出文件名
-      "./Practice/605.cpp", //编译的文件
-      "-lavutil", //依赖
-      "-lavcodec" //依赖
+      "./Practice/606", //输出文件名
+      "./Practice/606.cpp", //编译的文件
+      // "-lavutil", //依赖
+      // "-lavcodec" //依赖
     ],
     "group": {
       "kind": "build",

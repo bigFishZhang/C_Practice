@@ -1,0 +1,3 @@
+/Users/bigfish/mine/C_Practice/6101/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bigfish/mine/C_Practice/6101/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bigfish/mine/C_Practice/6101/cmake-build-debug/CMakeFiles/6101.dir
