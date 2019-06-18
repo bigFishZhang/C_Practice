@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/bigfish/mine/C_Practice/61801/ZString.cpp">
+			<Option target="61801"/>
+		</Unit>
+		<Unit filename="/Users/bigfish/mine/C_Practice/61801/ZString.h">
+			<Option target="61801"/>
+		</Unit>
 		<Unit filename="/Users/bigfish/mine/C_Practice/61801/complex.cpp">
 			<Option target="61801"/>
 		</Unit>

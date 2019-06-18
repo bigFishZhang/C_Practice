@@ -3,4 +3,4 @@ project(61801)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(61801 main.cpp complex.cpp complex.h)
+add_executable(61801 main.cpp complex.cpp complex.h ZString.cpp ZString.h)

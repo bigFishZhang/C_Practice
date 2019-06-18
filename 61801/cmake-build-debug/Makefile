@@ -123,6 +123,33 @@ depend:
 	$(MAKE) -f CMakeFiles/61801.dir/build.make CMakeFiles/61801.dir/build
 .PHONY : 61801/fast
 
+ZString.o: ZString.cpp.o
+
+.PHONY : ZString.o
+
+# target to build an object file
+ZString.cpp.o:
+	$(MAKE) -f CMakeFiles/61801.dir/build.make CMakeFiles/61801.dir/ZString.cpp.o
+.PHONY : ZString.cpp.o
+
+ZString.i: ZString.cpp.i
+
+.PHONY : ZString.i
+
+# target to preprocess a source file
+ZString.cpp.i:
+	$(MAKE) -f CMakeFiles/61801.dir/build.make CMakeFiles/61801.dir/ZString.cpp.i
+.PHONY : ZString.cpp.i
+
+ZString.s: ZString.cpp.s
+
+.PHONY : ZString.s
+
+# target to generate assembly for a file
+ZString.cpp.s:
+	$(MAKE) -f CMakeFiles/61801.dir/build.make CMakeFiles/61801.dir/ZString.cpp.s
+.PHONY : ZString.cpp.s
+
 complex.o: complex.cpp.o
 
 .PHONY : complex.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 61801"
+	@echo "... ZString.o"
+	@echo "... ZString.i"
+	@echo "... ZString.s"
 	@echo "... complex.o"
 	@echo "... complex.i"
 	@echo "... complex.s"

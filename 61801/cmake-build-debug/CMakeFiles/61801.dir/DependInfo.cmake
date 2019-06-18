@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/bigfish/mine/C_Practice/61801/ZString.cpp" "/Users/bigfish/mine/C_Practice/61801/cmake-build-debug/CMakeFiles/61801.dir/ZString.cpp.o"
   "/Users/bigfish/mine/C_Practice/61801/complex.cpp" "/Users/bigfish/mine/C_Practice/61801/cmake-build-debug/CMakeFiles/61801.dir/complex.cpp.o"
   "/Users/bigfish/mine/C_Practice/61801/main.cpp" "/Users/bigfish/mine/C_Practice/61801/cmake-build-debug/CMakeFiles/61801.dir/main.cpp.o"
   )

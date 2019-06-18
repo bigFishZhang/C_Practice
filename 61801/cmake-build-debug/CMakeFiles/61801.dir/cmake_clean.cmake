@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/61801.dir/main.cpp.o"
   "CMakeFiles/61801.dir/complex.cpp.o"
+  "CMakeFiles/61801.dir/ZString.cpp.o"
   "61801.pdb"
   "61801"
 )
