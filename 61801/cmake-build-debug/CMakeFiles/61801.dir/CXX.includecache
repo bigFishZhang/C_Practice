@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bigfish/mine/C_Practice/61801/complex.h
+
+/Users/bigfish/mine/C_Practice/61801/main.cpp
+iostream
+-
+complex.h
+/Users/bigfish/mine/C_Practice/61801/complex.h
+
